@@ -1,4 +1,4 @@
-# Sistema multiagente en n8n
+<h1><img src="assets/banner.svg" alt="Sistema multiagente en n8n" width="100%"></h1>
 
 Un asistente personal construido como una cadena de agentes en n8n. Recibe pedidos por Telegram, HTTP, voz y una terminal de bolsillo, decide qué especialista los atiende, ejecuta acciones reales con aprobación humana y registra todo lo que hace.
 
